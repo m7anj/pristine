@@ -1,6 +1,6 @@
 # ✨ pristine.
 
-an AI-powered PC optimization tool designed to enhance system performance, clean up unnecessary files, and streamline Windows operations.
+an ai-powered windows pc optimization tool designed to enhance system performance, clean up unnecessary files, and streamline Windows operations.
 
 ## features
 - **system cleanup** – removes temporary files and junk to free up space.
@@ -9,8 +9,8 @@ an AI-powered PC optimization tool designed to enhance system performance, clean
 
 
 ## contribution
-fe welcome contributions! Feel free to submit issues, feature requests, or pull requests.
+no. not allowed to contribute yet. only manj and dylan.
 
 ## contact
-for support or suggestions, contact us at **@m9anj** and **@dsx4** on Discord!
+for support or suggestions, contact us at **@m9anj** and **@dsx4** on discord!
 
